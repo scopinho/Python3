@@ -1,0 +1,8 @@
+# Para cria um ambiente virtual
+python3 -m venv env2
+
+#Ativando
+source env2/bin/activate
+
+#Desativando
+deactivate
